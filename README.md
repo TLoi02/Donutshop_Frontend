@@ -7,6 +7,6 @@ This Repo coding to learn HTML, CSS and JavaScript. I'm use Bootstrap to coding 
 [Watch demo](https://drive.google.com/file/d/1ikel6GXIK-BJXmgPvNek0DLKVjChzvjz/view?usp=sharing)
 ## My other projects
 - [Donut Shop Backend](https://github.com/TLoi02/DonutShop_Backend).
-- [Book Shop](https://github.com/TLoi02/BookStore-Java).
+- [LTech Book](https://github.com/TLoi02/LTech-Book).
 - [Notes App](https://github.com/TLoi02/Notes-app).
 - [Chat With AI](https://github.com/TLoi02/Chat-with-OpenAI).
